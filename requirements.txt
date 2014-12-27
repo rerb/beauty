@@ -1,0 +1,7 @@
+Django==1.7.1
+Pygments==2.0.1
+Werkzeug
+django-cors-headers==1.0.0
+django-extensions==1.4.9
+django-pygments==0.1
+ipython==2.3.1
